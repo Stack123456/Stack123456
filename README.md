@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Stepan and i'm currently working on a motion capture software that will revolutionize karate
+
+
 
 <!--
 **Stack123456/Stack123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
